@@ -1,0 +1,780 @@
+YearsProgr,PersonalProj,Gender,WorkType,Company,Supervising,Studies,RelativeComp,AnnualNetSalary,Employer,Employee,observation_count
+13,Yes,Man,Hybrid,501plus,No,Bachelor,Yes,39361,Greece,Greece,2
+7,Yes,Man,Remote,201to500,No,Bachelor,Yes,30142,Greece,Greece,1
+1,No,Man,Remote,1to10,No,Bachelor,Yes,8450,Greece,Greece,3
+2,No,Man,Remote,501plus,No,Master,Yes,30551,Abroad,Abroad,2
+3,Yes,Man,Remote,51to100,Yes,Bachelor,Yes,20351,Greece,Greece,1
+1,Yes,Man,Remote,1to10,No,Bachelor,Yes,12600,Greece,Greece,2
+4,Yes,Man,Remote,11to50,No,Bachelor,Yes,18242,Greece,Greece,1
+4,Yes,Man,Hybrid,101to200,No,Bachelor,Yes,23363,Greece,Greece,1
+1,No,Man,Remote,501plus,No,High School,Other,9600,Greece,Greece,2
+3,No,Man,Remote,1to10,No,Master,Yes,10944,Greece,Greece,2
+6,No,Man,Remote,11to50,No,High School,Other,47000,Abroad,Greece,1
+6,Yes,Man,Remote,11to50,No,Master,Yes,29078,Greece,Greece,1
+5,Yes,Man,Remote,11to50,No,Bachelor,Yes,22400,Greece,Greece,1
+1,No,Man,Remote,11to50,Yes,Master,Yes,8500,Abroad,Abroad,2
+1,No,Man,Onsite,501plus,No,Bachelor,Yes,18000,Greece,Greece,1
+6,Yes,Man,Remote,501plus,Yes,Bachelor,Other,36000,Abroad,Greece,1
+1,Yes,Man,Remote,101to200,No,Bachelor,Yes,37800,Abroad,Greece,2
+3,No,Man,Remote,201to500,No,Master,Yes,18000,Greece,Greece,3
+10,Yes,Man,Hybrid,11to50,No,Post-secondary Education,Yes,20000,Greece,Greece,3
+1,No,Man,Hybrid,501plus,No,Bachelor,Yes,36000,Abroad,Abroad,2
+4,No,Man,Remote,51to100,Yes,Bachelor,Yes,50000,Abroad,Greece,2
+7,No,Man,Hybrid,201to500,No,Bachelor,Yes,26000,Greece,Greece,3
+5,No,Man,Remote,501plus,No,Master,Yes,30000,Greece,Greece,1
+8,No,Man,Hybrid,201to500,No,Master,Yes,30000,Greece,Greece,1
+5,Yes,Man,Remote,201to500,No,Master,Other,36000,Greece,Greece,2
+2,Yes,Man,Remote,11to50,Yes,High School,Other,40000,Abroad,Abroad,3
+2,Yes,Man,Remote,1to10,No,Bachelor,Yes,11600,Greece,Greece,2
+1,Yes,Man,Remote,1to10,No,Post-secondary Education,Yes,8400,Greece,Greece,2
+1,Yes,Man,Remote,501plus,No,Bachelor,Yes,13000,Abroad,Greece,1
+6,Yes,Man,Remote,1to10,No,High School,Other,19200,Greece,Greece,1
+4,No,Man,Remote,201to500,No,Bachelor,Yes,38000,Greece,Greece,1
+2,No,Man,Hybrid,501plus,No,Master,Yes,16800,Greece,Greece,3
+2,Yes,Man,Remote,11to50,No,Master,Other,27000,Abroad,Greece,2
+1,No,Man,Remote,51to100,No,Bachelor,Yes,15200,Greece,Greece,1
+1,No,Man,Remote,501plus,No,Bachelor,Yes,1036,Greece,Greece,2
+3,Yes,Man,Hybrid,11to50,No,High School,Other,19600,Greece,Greece,2
+2,No,Man,Onsite,11to50,No,Master,Yes,18100,Greece,Greece,2
+2,Yes,Man,Remote,1to10,Yes,High School,Other,40000,Abroad,Greece,4
+1,Yes,Man,Onsite,51to100,Yes,Bachelor,Yes,8000,Greece,Greece,1
+8,Yes,Man,Hybrid,501plus,No,Bachelor,Yes,25000,Greece,Greece,2
+3,Yes,Man,Hybrid,51to100,Yes,Bachelor,Yes,16000,Greece,Greece,2
+1,Yes,Man,Remote,101to200,No,High School,Other,15000,Greece,Greece,1
+2,No,Man,Hybrid,501plus,No,Bachelor,Yes,13300,Greece,Greece,1
+3,Yes,Man,Remote,11to50,No,High School,Other,1787,Greece,Greece,4
+4,Yes,Man,Remote,501plus,No,Post-secondary Education,Yes,25000,Greece,Greece,2
+2,Yes,Man,Remote,501plus,No,Post-secondary Education,Other,33600,Abroad,Greece,5
+6,Yes,Man,Hybrid,11to50,Yes,Master,Yes,26600,Greece,Greece,1
+12,Yes,Man,Remote,501plus,Yes,Master,Yes,55000,Greece,Greece,3
+2,No,Man,Hybrid,501plus,No,Master,Yes,13300,Greece,Greece,1
+1,No,Man,Remote,1to10,No,Bachelor,Yes,15000,Greece,Greece,3
+6,Yes,Man,Remote,1to10,Yes,Bachelor,Yes,30000,Abroad,Greece,2
+4,Yes,Man,Remote,51to100,No,Bachelor,Yes,20300,Greece,Greece,3
+1,Yes,Man,Onsite,201to500,No,Bachelor,Yes,15400,Greece,Greece,1
+1,No,Man,Hybrid,11to50,No,Primary Education,Other,7800,Greece,Greece,2
+4,Yes,Man,Remote,1to10,No,Bachelor,Yes,1800,Greece,Greece,1
+1,No,Man,Remote,1to10,No,Bachelor,Yes,750,Greece,Greece,1
+20,Yes,Man,Hybrid,1to10,No,Bachelor,Yes,20000,Greece,Greece,3
+7,Yes,Man,Hybrid,1to10,No,Post-secondary Education,Yes,14000,Greece,Greece,3
+1,No,Man,Remote,51to100,No,Bachelor,Yes,14000,Greece,Greece,2
+10,Yes,Man,Hybrid,1to10,No,Post-secondary Education,Yes,26600,NA,Greece,1
+4,Yes,Man,Hybrid,51to100,No,Bachelor,Yes,21000,Greece,Greece,1
+1,Yes,Man,Remote,201to500,No,Bachelor,Yes,15400,Greece,Greece,2
+1,No,Man,Remote,1to10,No,Bachelor,Yes,8400,Greece,Abroad,2
+5,Yes,Man,Hybrid,501plus,No,Master,Yes,21800,Greece,Greece,1
+5,Yes,Man,Hybrid,501plus,Yes,Bachelor,Yes,18000,Greece,Greece,1
+5,Yes,Man,Hybrid,11to50,No,Bachelor,Yes,1000,Greece,Greece,2
+1,No,Man,Remote,501plus,No,Bachelor,Yes,12810,Greece,Greece,1
+6,No,Man,Onsite,51to100,No,Post-secondary Education,Other,19600,Greece,Greece,1
+7,No,Man,Hybrid,501plus,No,Master,Yes,23800,Greece,Greece,2
+1,No,Man,Remote,11to50,No,Bachelor,Yes,15568,Greece,Greece,1
+1,No,Man,Remote,11to50,No,Bachelor,Yes,14000,Abroad,Greece,2
+1,Yes,Man,Hybrid,101to200,No,High School,Other,13720,Greece,Greece,1
+6,No,Man,Hybrid,11to50,No,Bachelor,Yes,19500,Abroad,Abroad,1
+5,No,Man,Remote,51to100,No,Bachelor,Yes,18200,Greece,Greece,1
+2,Yes,Man,Onsite,1to10,No,Bachelor,Yes,14000,Greece,Greece,2
+15,Yes,Man,Hybrid,101to200,Yes,Bachelor,Yes,1900,Greece,Greece,2
+12,Yes,Man,Onsite,1to10,Yes,Bachelor,Yes,13000,Abroad,Abroad,2
+1,No,Man,Remote,11to50,No,Bachelor,Other,9400,Greece,Greece,2
+1,No,Man,Hybrid,1to10,Yes,Bachelor,Yes,16000,Greece,Greece,1
+1,No,Man,Onsite,51to100,No,Bachelor,Yes,900,Greece,Greece,2
+1,Yes,Man,Hybrid,101to200,No,Master,Yes,17800,Greece,Greece,1
+10,No,Man,Remote,1to10,No,Bachelor,Yes,35000,Greece,Greece,3
+3,Yes,Man,Onsite,1to10,No,Bachelor,Yes,16900,NA,Greece,1
+22,Yes,Man,Onsite,501plus,Yes,Master,Yes,26000,Greece,Greece,2
+2,Yes,Man,Hybrid,11to50,No,Post-secondary Education,Yes,17500,Greece,Greece,2
+2,Yes,Man,Hybrid,51to100,No,Master,Yes,755,Greece,Greece,1
+1,No,Woman,Remote,1to10,No,Bachelor,Yes,10800,Greece,Greece,2
+2,No,Woman,Hybrid,1to10,No,High School,Other,14420,Greece,Greece,1
+40,No,Woman,Hybrid,501plus,Yes,PhD,Yes,10000,Abroad,Abroad,1
+3,Yes,Man,Remote,11to50,No,Bachelor,Yes,14000,Abroad,Greece,1
+2,Yes,Man,Remote,11to50,No,PhD,Yes,1000,Greece,Greece,3
+6,Yes,Man,Remote,501plus,No,High School,Other,46500,Abroad,Abroad,2
+2,Yes,Man,Remote,11to50,Yes,Post-secondary Education,Yes,14000,Greece,Greece,1
+6,No,Man,Onsite,201to500,No,Bachelor,Yes,19000,Greece,Greece,4
+6,No,Man,Hybrid,201to500,No,Master,Yes,20000,Greece,Greece,3
+3,Yes,Man,Remote,1to10,No,Bachelor,Yes,15400,Greece,Greece,4
+2,No,Man,Remote,101to200,No,Master,Yes,16100,Greece,Greece,2
+2,Yes,Man,Hybrid,11to50,No,High School,Other,14000,Greece,Greece,3
+2,No,Man,Remote,1to10,Yes,Bachelor,Yes,15120,Greece,Greece,2
+6,No,Man,Remote,201to500,No,Master,Other,40000,Greece,Greece,2
+2,No,Man,Onsite,201to500,No,Master,Yes,15600,NA,Greece,2
+1,Yes,Man,Onsite,11to50,No,Bachelor,Yes,168,Greece,Greece,2
+1,No,Man,Remote,51to100,No,Bachelor,Other,11200,Greece,Greece,2
+5,No,Man,Hybrid,501plus,No,Master,Yes,17800,Greece,Greece,1
+10,Yes,Man,Hybrid,501plus,No,Master,Other,41580,Abroad,Abroad,1
+8,Yes,Man,Remote,501plus,No,Bachelor,Yes,1200,Greece,Greece,1
+1,Yes,Man,Hybrid,501plus,No,Bachelor,Yes,14000,Greece,Greece,1
+4,No,Man,Remote,101to200,No,Master,Yes,28000,Greece,Greece,1
+3,No,Man,Remote,101to200,No,Master,Yes,20300,Greece,Greece,1
+1,No,Man,Remote,101to200,No,Bachelor,Other,15400,Greece,Greece,1
+2,No,Man,Remote,201to500,No,Bachelor,Yes,18200,Greece,Abroad,1
+1,No,Man,Hybrid,501plus,No,Bachelor,Yes,14000,Greece,Greece,3
+7,Yes,Man,Hybrid,1to10,No,Master,Yes,20000,Abroad,Abroad,2
+7,Yes,Man,Remote,11to50,Yes,High School,Other,50000,Abroad,Greece,3
+1,No,Man,Hybrid,51to100,No,Bachelor,Yes,8400,Greece,Greece,2
+3,Yes,Man,Onsite,201to500,No,Bachelor,Yes,1300,Greece,Greece,4
+3,No,Man,Hybrid,11to50,No,Master,Yes,32200,Greece,Greece,1
+6,No,Man,Hybrid,101to200,Yes,Master,Yes,20160,Greece,Greece,1
+2,Yes,Man,Hybrid,101to200,No,Bachelor,Yes,142,Greece,Greece,1
+1,Yes,Man,Remote,11to50,No,Master,Yes,36000,Abroad,Greece,1
+1,No,Man,Hybrid,501plus,No,Master,Yes,14209,Greece,Greece,3
+1,No,Man,Remote,1to10,No,Bachelor,Yes,9600,Greece,Greece,2
+8,No,Man,Hybrid,201to500,No,Bachelor,Yes,21182,Greece,Greece,1
+5,No,Man,Hybrid,11to50,No,Bachelor,Yes,47000,NA,NA,2
+23,Yes,Man,Hybrid,501plus,No,Master,Other,30000,Greece,Greece,1
+2,No,Man,Hybrid,501plus,No,Bachelor,Yes,16600,Greece,Greece,1
+1,Yes,Man,Onsite,11to50,No,Bachelor,Other,14000,Greece,Greece,1
+3,Yes,Man,Hybrid,101to200,No,Bachelor,Yes,32928,Greece,Greece,1
+1,No,Man,Hybrid,11to50,No,Master,Yes,32000,Abroad,Abroad,1
+4,Yes,Man,Remote,101to200,No,Bachelor,Yes,27600,Greece,Greece,1
+1,No,Man,Hybrid,201to500,No,Bachelor,Yes,14200,Greece,Greece,2
+1,No,Man,Onsite,1to10,Yes,Bachelor,Yes,102,Greece,Greece,2
+4,No,Man,Remote,501plus,No,Master,Yes,19600,Greece,Greece,2
+5,Yes,Man,Hybrid,501plus,No,Bachelor,Yes,20000,Greece,Greece,1
+23,No,Man,Onsite,1to10,Yes,Bachelor,Other,24000,Greece,Greece,1
+10,Yes,Man,Hybrid,11to50,Yes,Bachelor,Yes,37000,Greece,Greece,5
+13,Yes,Man,Remote,1to10,No,Bachelor,Other,18000,Greece,Greece,3
+4,No,Man,Remote,501plus,Yes,Bachelor,Yes,24300,Greece,Greece,2
+6,No,Woman,Hybrid,51to100,No,High School,Other,15500,Greece,Greece,1
+3,No,Man,Onsite,11to50,Yes,Bachelor,Other,12824,Greece,Greece,1
+14,Yes,Man,Hybrid,51to100,No,Master,Yes,34000,Greece,Greece,2
+1,No,Man,Remote,101to200,No,Bachelor,Yes,980,Greece,Greece,1
+3,No,Man,Onsite,51to100,No,Master,Yes,21700,Greece,Greece,1
+1,No,Man,Hybrid,201to500,No,Bachelor,Yes,14200,Greece,Greece,2
+1,No,Woman,Remote,501plus,No,Bachelor,Yes,11452,Greece,Greece,1
+1,Yes,Man,Remote,51to100,No,Master,Yes,12000,Greece,Greece,1
+11,No,Man,Onsite,1to10,Yes,Bachelor,Yes,32200,Greece,Greece,3
+1,No,Man,Onsite,11to50,No,Bachelor,Yes,11500,Greece,Greece,1
+5,Yes,Man,Hybrid,201to500,No,High School,Other,23000,Greece,Greece,2
+10,No,Man,Remote,11to50,Yes,Master,Yes,32900,Greece,Greece,2
+4,No,Man,Hybrid,1to10,No,High School,Other,7000,Greece,Greece,4
+2,No,Man,Onsite,11to50,No,Master,Yes,16800,Greece,Greece,1
+9,Yes,Man,Hybrid,501plus,No,Bachelor,Yes,42000,Abroad,Greece,2
+1,Yes,Man,Onsite,1to10,No,Bachelor,Yes,12850,Greece,Greece,2
+1,Yes,Man,Remote,51to100,No,Bachelor,Yes,15400,Greece,Greece,2
+1,Yes,Man,Remote,1to10,No,Bachelor,Yes,10600,Greece,Greece,2
+8,Yes,Man,Hybrid,501plus,Yes,Master,Yes,32000,Greece,Greece,1
+2,Yes,Man,Remote,11to50,Yes,Post-secondary Education,Yes,11000,Greece,Greece,2
+4,Yes,Man,Hybrid,1to10,No,Bachelor,Yes,21000,Greece,Greece,2
+8,Yes,Man,Remote,501plus,Yes,Bachelor,Yes,50000,Greece,Greece,3
+1,No,Man,Remote,11to50,No,High School,Other,850,Greece,Greece,2
+3,Yes,Man,Hybrid,501plus,Yes,Master,Yes,1244,Greece,Greece,3
+3,Yes,Man,Remote,11to50,No,Master,Yes,14000,Greece,Greece,1
+3,Yes,Man,Remote,51to100,Yes,High School,Other,44000,Greece,Greece,1
+5,Yes,Man,Hybrid,11to50,Yes,Master,Yes,23800,Greece,Greece,1
+3,Yes,Man,Hybrid,11to50,No,Post-secondary Education,Yes,21,Greece,Greece,1
+12,No,Man,Hybrid,201to500,Yes,Bachelor,Yes,50000,Greece,Greece,1
+1,Yes,Man,Remote,51to100,No,High School,Other,16800,Greece,Greece,1
+20,No,Man,Hybrid,1to10,Yes,Bachelor,Other,35000,Greece,Greece,1
+1,Yes,Man,Hybrid,501plus,No,Bachelor,Yes,7200,Greece,Greece,2
+1,No,Woman,Remote,501plus,No,Bachelor,Other,14300,Greece,Greece,2
+2,No,Man,Hybrid,501plus,No,Post-secondary Education,Yes,19600,Greece,Greece,1
+1,No,Man,Onsite,201to500,Yes,High School,Other,7800,Greece,Greece,1
+1,Yes,Man,Remote,501plus,No,Bachelor,Yes,13000,Greece,Greece,1
+3,Yes,Man,Hybrid,501plus,No,Master,Yes,26000,Greece,Greece,1
+3,No,Man,Remote,501plus,No,Bachelor,Yes,27223,Abroad,Greece,1
+1,Yes,Man,Remote,501plus,No,Bachelor,Yes,12228,Greece,Greece,1
+12,No,Man,Hybrid,501plus,Yes,Master,Yes,27553,Greece,Greece,2
+8,No,Man,Hybrid,501plus,Yes,Master,Yes,25994,Greece,Greece,4
+3,No,Man,Remote,201to500,No,Bachelor,Other,16800,Greece,Greece,1
+6,No,Man,Hybrid,101to200,No,Master,Yes,45000,Abroad,Abroad,4
+6,No,Man,Remote,501plus,No,Post-secondary Education,Yes,32200,Greece,Greece,2
+3,No,Man,Remote,11to50,No,Bachelor,Yes,21000,Abroad,Greece,2
+1,Yes,Woman,Hybrid,101to200,No,Bachelor,Yes,28000,Abroad,Abroad,1
+1,Yes,Man,Onsite,11to50,No,Bachelor,Other,4550,Greece,Greece,1
+1,Yes,Man,Remote,11to50,No,Bachelor,Yes,10000,Greece,Abroad,1
+4,No,Man,Hybrid,11to50,Yes,Bachelor,Other,1188,Greece,Greece,2
+1,No,Man,Hybrid,501plus,No,Master,Yes,13000,Greece,Greece,1
+1,No,Man,Hybrid,501plus,No,Bachelor,Yes,12892,Greece,Greece,2
+7,No,Man,Hybrid,51to100,Yes,Bachelor,Yes,33600,Greece,Greece,1
+6,Yes,Man,Hybrid,1to10,No,High School,Other,8400,Greece,Greece,2
+20,Yes,Man,Hybrid,11to50,Yes,Master,Yes,3000,Greece,Greece,3
+1,Yes,Man,Hybrid,201to500,No,Bachelor,Yes,18000,Greece,Greece,2
+3,No,Man,Hybrid,11to50,No,High School,Other,21000,Greece,Greece,2
+3,Yes,Man,Remote,1to10,Yes,Master,Other,19600,Greece,Greece,2
+1,No,Man,Hybrid,201to500,No,Master,Yes,12000,Greece,Greece,2
+4,No,Man,Remote,11to50,No,Bachelor,Yes,850,Greece,Greece,1
+4,No,Man,Remote,201to500,No,Bachelor,Yes,23800,Greece,Greece,1
+9,No,Man,Remote,11to50,Yes,Bachelor,Yes,29400,Greece,Greece,2
+1,Yes,Man,Onsite,51to100,No,Bachelor,Yes,21000,Greece,Greece,1
+1,No,Man,Onsite,11to50,No,Bachelor,Yes,10500,Greece,Greece,3
+1,No,Man,Remote,1to10,Yes,Master,Other,14000,Greece,Greece,1
+1,Yes,Man,Hybrid,11to50,No,Master,Yes,15600,Greece,Greece,1
+2,No,Man,Hybrid,101to200,No,Bachelor,Yes,19000,Greece,Greece,1
+2,Yes,Man,Hybrid,501plus,No,Bachelor,Other,1300,Greece,Greece,1
+1,Yes,Man,Remote,51to100,No,Master,Yes,1000,Greece,Greece,2
+1,No,Man,Hybrid,501plus,No,Master,Yes,10518,Greece,Greece,1
+1,No,Man,Hybrid,501plus,No,Bachelor,Yes,39828,Abroad,Abroad,3
+2,Yes,Man,Hybrid,101to200,Yes,Bachelor,Yes,1500,Greece,Greece,3
+10,Yes,Man,Onsite,101to200,Yes,Bachelor,Yes,25000,Greece,Greece,6
+1,Yes,Man,Hybrid,11to50,No,Master,Yes,10000,Greece,Greece,1
+3,Yes,Man,Hybrid,51to100,No,Master,Yes,20000,Greece,Greece,1
+5,No,Man,Remote,11to50,No,Bachelor,Yes,45000,Abroad,Greece,2
+1,Yes,Man,Hybrid,501plus,No,Master,Other,59000,Abroad,Abroad,1
+5,No,Man,Remote,501plus,No,Bachelor,Yes,22500,Greece,Greece,3
+1,Yes,Man,Hybrid,201to500,No,Bachelor,Yes,800,Greece,Greece,1
+9,No,Man,Onsite,201to500,No,PhD,Yes,22500,Greece,Greece,1
+1,No,Woman,Hybrid,101to200,No,Bachelor,Yes,8974,Greece,Greece,1
+4,Yes,Man,Hybrid,501plus,No,High School,Other,20000,Greece,Greece,1
+5,No,Woman,Remote,51to100,No,Post-secondary Education,Yes,19600,Greece,Greece,2
+3,Yes,Man,Onsite,1to10,Yes,Post-secondary Education,Yes,8000,Greece,Greece,2
+6,Yes,Man,Hybrid,201to500,No,Master,Yes,22000,Greece,Greece,1
+9,Yes,Man,Hybrid,201to500,Yes,Bachelor,Yes,31000,Greece,Greece,1
+1,No,Man,Remote,11to50,No,Master,Yes,16320,Greece,Greece,1
+1,Yes,Man,Hybrid,201to500,No,Bachelor,Yes,2156,Greece,Greece,2
+8,Yes,Woman,Remote,1to10,Yes,Master,Yes,30000,Greece,Greece,3
+6,Yes,Man,Onsite,11to50,Yes,High School,Other,22400,Greece,Greece,2
+1,Yes,Man,Remote,501plus,No,Master,Yes,18200,Greece,Greece,2
+10,Yes,Man,Remote,51to100,No,Bachelor,Yes,64000,Abroad,Greece,3
+4,No,Man,Remote,11to50,No,Master,Yes,19600,Greece,Greece,2
+2,No,Man,Hybrid,201to500,No,Bachelor,Yes,16025,NA,Greece,1
+10,Yes,Man,Hybrid,101to200,No,Master,Yes,28000,Greece,Greece,3
+1,Yes,Man,Remote,51to100,No,Bachelor,Yes,11461,Greece,Greece,1
+4,Yes,Man,Hybrid,501plus,No,Bachelor,Yes,21556,Greece,Greece,1
+4,Yes,Man,Remote,1to10,Yes,Bachelor,Other,35000,Greece,Greece,1
+4,Yes,Man,Hybrid,51to100,No,Master,Other,23800,Greece,Greece,1
+4,Yes,Man,Hybrid,201to500,No,Bachelor,Yes,14700,Greece,Greece,2
+1,No,Man,Onsite,101to200,No,Bachelor,Other,1300,Abroad,Abroad,2
+1,Yes,Man,Hybrid,1to10,No,Master,Yes,11900,Greece,Greece,1
+5,No,Man,Hybrid,201to500,Yes,Master,Yes,29032,Greece,Greece,1
+1,No,Man,Remote,1to10,Yes,Master,Yes,8400,Greece,Greece,2
+5,Yes,Man,Remote,101to200,Yes,Master,Other,40000,Abroad,Greece,1
+1,No,Man,Onsite,1to10,No,High School,Other,8400,Greece,Greece,2
+5,No,Man,Remote,1to10,No,Master,Yes,29750,Abroad,Greece,1
+4,Yes,Man,Hybrid,501plus,No,High School,Other,26050,Greece,Greece,2
+8,No,Woman,Hybrid,51to100,No,Master,Yes,294,Greece,Greece,2
+1,Yes,Man,Remote,1to10,No,Bachelor,Yes,12600,Greece,Greece,2
+1,Yes,Man,Remote,11to50,Yes,Bachelor,Yes,30000,NA,Greece,1
+8,No,Man,Hybrid,101to200,Yes,Master,Yes,30000,Greece,Greece,1
+10,No,Man,Remote,101to200,No,Bachelor,Yes,40000,Greece,Greece,1
+1,No,Man,Hybrid,501plus,Yes,Post-secondary Education,Yes,40000,Abroad,Abroad,2
+4,No,Man,Hybrid,1to10,No,Post-secondary Education,Yes,182,Greece,Greece,2
+2,No,Man,Hybrid,501plus,No,High School,Other,22940,Greece,Greece,2
+20,No,Man,Remote,1to10,No,Master,Yes,25000,Greece,Greece,3
+1,No,Man,Hybrid,51to100,No,Master,Other,13300,Greece,Greece,1
+3,No,Man,Hybrid,51to100,Yes,Master,Yes,23000,Greece,Greece,2
+2,Yes,Man,Hybrid,501plus,No,Master,Yes,1000,Greece,Greece,2
+2,Yes,Man,Remote,501plus,No,Master,Yes,20000,Greece,Greece,2
+1,Yes,Man,Remote,201to500,No,Bachelor,Yes,1060,Greece,Greece,3
+1,No,Man,Remote,201to500,No,Bachelor,Other,11732,Greece,Greece,1
+20,Yes,Man,Remote,501plus,Yes,Master,Yes,50000,Greece,Greece,3
+1,No,Man,Hybrid,501plus,No,Bachelor,Yes,11900,Greece,Greece,1
+16,No,Man,Remote,101to200,No,Master,Yes,28000,Greece,Greece,2
+2,No,Man,Remote,51to100,No,High School,Other,25200,Greece,Greece,1
+3,Yes,Man,Remote,1to10,Yes,Bachelor,Yes,20900,Greece,Greece,3
+1,No,Man,Hybrid,501plus,No,Bachelor,Yes,15120,Greece,Greece,2
+2,No,Man,Onsite,11to50,No,Master,Yes,16000,Greece,Greece,2
+8,Yes,Woman,Hybrid,51to100,No,Master,Yes,21200,Greece,Greece,4
+15,No,Man,Hybrid,201to500,Yes,Master,Yes,56000,Greece,Greece,1
+1,Yes,Man,Hybrid,1to10,No,Master,Yes,9600,Greece,Greece,2
+5,No,Man,Hybrid,501plus,No,Master,Yes,28832,Greece,Greece,1
+1,Yes,Man,Hybrid,501plus,No,High School,Other,1000,Greece,Greece,1
+1,Yes,Man,Remote,11to50,No,Bachelor,Yes,26000,Greece,Greece,2
+23,No,Man,Hybrid,201to500,Yes,Bachelor,Yes,28000,Greece,Greece,3
+2,No,Man,Hybrid,501plus,No,Bachelor,Yes,16500,Greece,Greece,1
+8,Yes,Man,Remote,11to50,No,Bachelor,Yes,57899,Abroad,Greece,1
+6,Yes,Man,Remote,501plus,Yes,High School,Other,24500,Greece,Greece,3
+2,Yes,Man,Hybrid,1to10,No,Master,Other,9922,Greece,Greece,1
+1,Yes,Man,Remote,101to200,No,Master,Yes,16000,Greece,Greece,2
+16,No,Man,Remote,501plus,No,Master,Yes,55000,Greece,Greece,1
+12,No,Man,Hybrid,201to500,No,Master,Yes,56906,Greece,Greece,1
+15,Yes,Man,Hybrid,201to500,Yes,Master,Yes,35000,NA,Greece,2
+5,No,Man,Hybrid,501plus,No,Master,Other,14000,Greece,Greece,2
+5,Yes,Man,Hybrid,201to500,No,Bachelor,Yes,24555,Greece,Greece,2
+9,No,Man,Remote,201to500,No,Master,Yes,22000,Greece,Greece,3
+3,Yes,Man,Remote,11to50,Yes,Bachelor,Yes,23000,Greece,Greece,2
+3,Yes,Man,Hybrid,11to50,No,High School,Other,11186,Greece,Greece,3
+5,No,Woman,Hybrid,501plus,Yes,Master,Yes,21500,Greece,Greece,1
+2,No,Man,Hybrid,101to200,No,Bachelor,Yes,15400,Greece,Greece,3
+5,Yes,Man,Hybrid,11to50,No,Bachelor,Yes,19600,Greece,Greece,1
+4,Yes,Man,Remote,501plus,Yes,Master,Other,27000,Greece,Greece,1
+3,Yes,Man,Hybrid,501plus,No,Master,Yes,50000,Abroad,Abroad,1
+3,Yes,Man,Remote,101to200,No,PhD,Other,21000,Greece,Greece,1
+10,No,Man,Remote,201to500,Yes,Bachelor,Yes,30000,Abroad,Greece,1
+2,Yes,Man,Hybrid,201to500,No,Bachelor,Yes,14000,Greece,Greece,1
+4,Yes,Woman,Remote,201to500,No,High School,Other,45000,Abroad,Greece,1
+1,Yes,Man,Remote,201to500,No,Bachelor,Yes,11500,Greece,Greece,1
+3,No,Man,Hybrid,501plus,No,Bachelor,Yes,19500,Greece,Greece,1
+1,No,Man,Remote,11to50,No,Bachelor,Other,22500,Greece,Greece,3
+7,Yes,Man,Remote,101to200,No,Master,Yes,51000,Greece,Greece,3
+12,No,Man,Onsite,1to10,Yes,Master,Yes,19400,Greece,Greece,2
+7,No,Man,Hybrid,11to50,Yes,High School,Other,21800,Greece,Greece,1
+5,Yes,Man,Hybrid,501plus,No,Master,Yes,29560,Greece,Greece,1
+3,Yes,Man,Hybrid,501plus,No,Master,Yes,18205,Greece,Greece,1
+6,Yes,Man,Remote,101to200,No,Bachelor,Yes,19600,Greece,Greece,1
+2,Yes,Man,Hybrid,11to50,No,Bachelor,Other,11200,Greece,Greece,1
+1,Yes,Man,Remote,201to500,No,Bachelor,Other,15400,Greece,Greece,1
+2,Yes,Man,Hybrid,201to500,No,High School,Other,20010,Greece,Greece,2
+9,No,Man,Remote,51to100,Yes,Post-secondary Education,Yes,40000,Abroad,Greece,1
+3,No,Man,Hybrid,501plus,No,Master,Yes,11900,Greece,Greece,1
+6,Yes,Man,Remote,51to100,Yes,Bachelor,Other,25200,Greece,Greece,1
+5,Yes,Man,Remote,51to100,No,Master,Yes,35000,Greece,Greece,3
+1,No,Man,Hybrid,51to100,No,Bachelor,Yes,11200,Greece,Greece,1
+2,No,Man,Remote,501plus,Yes,Bachelor,Yes,15000,Greece,Greece,1
+2,No,Man,Remote,501plus,Yes,Bachelor,Yes,18500,Greece,Greece,1
+1,No,Man,Hybrid,101to200,No,High School,Other,11800,Greece,Greece,2
+10,No,Man,Remote,11to50,No,Bachelor,Yes,25200,Greece,Greece,2
+5,No,Woman,Onsite,1to10,No,Bachelor,Yes,14000,Greece,Greece,3
+8,Yes,Man,Remote,201to500,Yes,Bachelor,Other,40000,Abroad,Greece,2
+5,Yes,Man,Hybrid,201to500,No,Master,Yes,60000,Abroad,Greece,5
+3,Yes,Man,Remote,51to100,No,Bachelor,Yes,36000,Abroad,Greece,3
+6,No,Man,Remote,11to50,No,Bachelor,Yes,19938,Greece,Greece,1
+4,Yes,Man,Hybrid,51to100,No,Bachelor,Yes,21000,Greece,Greece,2
+3,Yes,Man,Remote,51to100,No,Master,Yes,17800,Abroad,Greece,4
+1,No,Man,Hybrid,1to10,No,Bachelor,Yes,7200,Greece,Greece,3
+2,No,Man,Remote,101to200,No,Bachelor,Yes,50,Abroad,Greece,1
+5,Yes,Man,Remote,11to50,Yes,Bachelor,Yes,17920,Greece,Greece,1
+2,Yes,Man,Remote,11to50,No,Bachelor,Other,14000,Greece,Greece,2
+6,No,Man,Remote,1to10,No,High School,Other,18200,Greece,Greece,1
+7,No,Man,Hybrid,11to50,Yes,Bachelor,Yes,26790,Greece,Greece,2
+3,No,Man,Remote,11to50,No,Bachelor,Yes,1200,Greece,Greece,2
+1,Yes,Man,Onsite,11to50,No,Bachelor,Yes,8655,Greece,Greece,1
+1,No,Man,Hybrid,201to500,No,Bachelor,Yes,1316,Greece,Greece,1
+1,Yes,Man,Hybrid,51to100,No,Bachelor,Yes,18200,Greece,Greece,1
+5,Yes,Man,Remote,11to50,No,Bachelor,Yes,24600,Abroad,Greece,1
+1,Yes,Man,Remote,1to10,No,Bachelor,Yes,9600,Abroad,Greece,1
+2,No,Man,Remote,11to50,No,Master,Yes,22036,Greece,Greece,1
+1,Yes,Man,Hybrid,51to100,No,Bachelor,Yes,12600,Greece,Greece,1
+4,No,Man,Hybrid,501plus,No,Master,Yes,20150,Greece,Greece,1
+1,No,Man,Hybrid,201to500,No,Bachelor,Yes,16025,Greece,Greece,4
+5,No,Man,Hybrid,1to10,No,Bachelor,Yes,29500,NA,Greece,2
+6,Yes,Man,Hybrid,101to200,No,High School,Other,21000,Greece,Greece,2
+1,No,Man,Hybrid,201to500,No,Bachelor,Yes,14196,Greece,Greece,1
+3,No,Man,Onsite,1to10,No,Bachelor,Yes,16400,Greece,Greece,1
+4,No,Man,Onsite,51to100,Yes,Bachelor,Yes,22000,NA,Greece,3
+3,No,Man,Hybrid,11to50,No,Bachelor,Yes,62300,Abroad,Abroad,4
+4,Yes,Man,Hybrid,501plus,No,Bachelor,Yes,18620,Greece,Greece,1
+5,No,Woman,Hybrid,51to100,No,Bachelor,Yes,1400,Greece,Greece,1
+2,No,Man,Hybrid,11to50,No,Bachelor,Yes,44400,Abroad,Abroad,1
+3,Yes,Man,Hybrid,501plus,No,Master,Yes,24000,Greece,Greece,1
+5,Yes,Man,Onsite,51to100,No,Bachelor,Yes,26600,Greece,Greece,5
+1,No,Man,Remote,501plus,No,High School,Other,11760,Greece,Greece,1
+8,No,Man,Remote,501plus,Yes,Bachelor,Yes,50000,Abroad,Abroad,1
+1,No,Man,Onsite,1to10,No,Bachelor,Yes,7200,Greece,Greece,1
+4,No,Man,Hybrid,11to50,No,Bachelor,Yes,9048,Greece,Greece,1
+1,No,Man,Hybrid,201to500,No,Bachelor,Other,16942,Greece,Greece,1
+1,No,Man,Remote,501plus,No,Master,Yes,30000,Abroad,Greece,1
+9,No,Man,Hybrid,101to200,No,Bachelor,Yes,20400,Greece,Greece,1
+3,Yes,Man,Hybrid,1to10,Yes,High School,Other,26000,Abroad,Abroad,1
+2,No,Man,Remote,501plus,No,Master,Yes,36303,Abroad,Abroad,1
+1,Yes,Man,Onsite,11to50,No,Master,Other,12000,Greece,Greece,1
+5,No,Man,Onsite,11to50,No,Post-secondary Education,Yes,14700,Greece,Greece,1
+1,No,Man,Remote,101to200,No,Bachelor,Yes,15400,Greece,Greece,2
+13,No,Man,Hybrid,501plus,No,Master,Yes,30800,Greece,Greece,2
+4,No,Man,Remote,101to200,No,Bachelor,Yes,32200,Greece,Greece,1
+2,Yes,Man,Remote,11to50,No,Master,Other,28380,Greece,Greece,3
+1,Yes,Man,Onsite,11to50,No,Bachelor,Yes,14000,Greece,Greece,1
+2,Yes,Man,Hybrid,501plus,No,Master,Yes,15000,Greece,Greece,1
+1,Yes,Man,Remote,101to200,No,Bachelor,Yes,15400,Greece,Greece,1
+1,No,Man,Hybrid,501plus,No,Bachelor,Yes,11924,Greece,Greece,1
+2,No,Man,Onsite,501plus,No,Bachelor,Other,14000,Greece,Greece,1
+14,Yes,Man,Remote,1to10,No,Bachelor,Yes,10000,Greece,Greece,1
+7,Yes,Man,Remote,1to10,Yes,Bachelor,Yes,27000,Greece,Greece,1
+8,No,Man,Hybrid,1to10,No,Bachelor,Yes,32324,Greece,Greece,2
+2,No,Man,Remote,101to200,No,Master,Yes,15400,Greece,Greece,1
+2,No,Man,Remote,201to500,No,Primary Education,Other,10800,Greece,Greece,1
+1,No,Man,Hybrid,201to500,No,Bachelor,Yes,14200,NA,Greece,1
+3,No,Man,Hybrid,201to500,No,Master,Yes,15500,Greece,Greece,1
+18,No,Man,Hybrid,11to50,Yes,Master,Yes,252,Greece,Greece,2
+13,Yes,Woman,Remote,501plus,Yes,Master,Yes,30800,Greece,Greece,1
+3,No,Man,Remote,1to10,Yes,Bachelor,Yes,18200,Greece,Greece,2
+3,No,Man,Hybrid,11to50,No,Bachelor,Other,16800,Greece,Greece,2
+2,Yes,Man,Hybrid,201to500,No,Bachelor,Other,15120,Greece,Greece,1
+2,No,Man,Hybrid,51to100,No,Bachelor,Other,14600,Greece,Greece,3
+1,No,Man,Onsite,1to10,No,Bachelor,Yes,16800,Greece,Greece,2
+10,No,Man,Remote,501plus,Yes,Master,Yes,50000,Greece,Greece,2
+2,No,Man,Remote,101to200,No,Bachelor,Other,15120,Greece,Greece,2
+4,Yes,Man,Hybrid,201to500,Yes,Bachelor,Yes,18680,Greece,Greece,2
+1,Yes,Man,Onsite,501plus,No,Bachelor,Yes,8400,NA,Greece,3
+1,No,Man,Remote,201to500,No,Bachelor,Yes,13500,Greece,Greece,1
+1,No,Man,Hybrid,501plus,No,Bachelor,Yes,11500,Greece,Greece,1
+7,No,Man,Hybrid,201to500,No,Master,Yes,25800,Greece,Greece,1
+5,No,Man,Remote,201to500,No,Master,Yes,15400,Greece,Greece,1
+1,No,Man,Remote,501plus,No,Bachelor,Yes,12600,Greece,Greece,1
+4,No,Man,Remote,11to50,Yes,Master,Yes,1450,Greece,Greece,1
+1,Yes,Man,Remote,11to50,No,Bachelor,Yes,11900,Greece,Abroad,2
+7,Yes,Man,Remote,51to100,Yes,Master,Other,24000,Greece,Greece,1
+1,Yes,Man,Remote,201to500,No,Bachelor,Yes,14000,Greece,Greece,1
+1,Yes,Man,Remote,201to500,No,Bachelor,Yes,23000,Greece,Greece,1
+5,Yes,Man,Hybrid,51to100,No,Bachelor,Yes,21000,Greece,Greece,1
+25,No,Man,Hybrid,501plus,No,Bachelor,Other,24000,Greece,Greece,1
+1,No,Man,Hybrid,51to100,No,Bachelor,Yes,12000,Greece,Greece,1
+1,Yes,Man,Hybrid,501plus,No,Bachelor,Yes,13300,Greece,Greece,1
+2,Yes,Man,Hybrid,101to200,No,Bachelor,Yes,14000,Greece,Greece,1
+1,Yes,Man,Hybrid,201to500,No,High School,Other,1000,Greece,Greece,1
+1,Yes,Man,Hybrid,11to50,No,Bachelor,Yes,800,Greece,Greece,1
+2,Yes,Man,Onsite,1to10,Yes,Bachelor,Yes,1200,Greece,Greece,2
+5,Yes,Man,Onsite,1to10,No,Bachelor,Yes,1100,Greece,Greece,1
+2,Yes,Man,Remote,1to10,No,Bachelor,Yes,30000,Greece,Greece,3
+1,Yes,Woman,Hybrid,201to500,No,Master,Yes,18000,Greece,Greece,2
+3,Yes,Man,Remote,501plus,No,Bachelor,Yes,13330,Greece,Greece,1
+10,Yes,Man,Remote,501plus,No,Bachelor,Yes,24000,Greece,Greece,2
+18,Yes,Man,Remote,101to200,No,Bachelor,Yes,25200,Greece,Greece,3
+1,No,Man,Hybrid,1to10,No,Master,Yes,15400,Greece,Greece,1
+22,No,Woman,Hybrid,11to50,No,Post-secondary Education,Yes,4300,Greece,Greece,1
+1,No,Man,Hybrid,51to100,No,Bachelor,Yes,11200,Greece,Greece,1
+1,Yes,Man,Remote,11to50,No,Bachelor,Yes,10500,Greece,Greece,1
+1,No,Man,Onsite,501plus,No,Master,Yes,15000,Greece,Greece,2
+1,Yes,Man,Onsite,101to200,No,Master,Other,15000,Greece,Greece,1
+4,No,Man,Hybrid,11to50,Yes,Bachelor,Yes,16800,Greece,Greece,2
+5,Yes,Man,Onsite,11to50,Yes,Master,Yes,15400,NA,Greece,2
+6,No,Man,Onsite,501plus,No,Master,Yes,19832,Greece,Greece,2
+2,Yes,Man,Onsite,1to10,No,Bachelor,Yes,14000,Greece,Greece,1
+4,No,Man,Remote,201to500,No,Post-secondary Education,Yes,23000,Greece,Greece,1
+1,No,Man,Onsite,501plus,No,Master,Yes,13440,Greece,Greece,1
+1,No,Man,Hybrid,11to50,No,Bachelor,Yes,15000,Greece,Greece,3
+4,No,Man,Onsite,101to200,No,Master,Yes,25200,Greece,Greece,3
+4,No,Man,Remote,501plus,No,Master,Yes,225,Greece,Greece,1
+6,No,Man,Remote,51to100,No,Bachelor,Yes,60000,Greece,Greece,1
+3,Yes,Man,Hybrid,201to500,No,Bachelor,Other,16800,Greece,Greece,2
+1,Yes,Man,Onsite,51to100,No,High School,Other,750,Greece,Greece,2
+11,Yes,Man,Remote,11to50,No,PhD,Yes,18900,Greece,Greece,1
+5,Yes,Woman,Remote,11to50,No,Master,Yes,10200,Greece,Greece,2
+3,No,Man,Remote,1to10,Yes,High School,Other,15784,Abroad,Greece,2
+7,Yes,Man,Remote,201to500,No,Master,Yes,20000,Greece,Greece,1
+1,Yes,Man,Hybrid,11to50,No,Bachelor,Yes,9530,NA,Greece,2
+7,Yes,Man,Hybrid,11to50,No,Master,Yes,22650,Greece,Greece,1
+2,No,Man,Remote,201to500,No,High School,Other,14400,Greece,Greece,1
+1,No,Man,Hybrid,201to500,No,Bachelor,Other,16352,Greece,Greece,1
+2,Yes,Man,Hybrid,201to500,No,Post-secondary Education,Yes,16000,Greece,Greece,2
+1,No,Man,Remote,101to200,No,Bachelor,Yes,20000,Abroad,Abroad,2
+1,No,Man,Hybrid,11to50,No,Bachelor,Yes,11900,Greece,Greece,1
+1,Yes,Man,Remote,1to10,No,Master,Yes,1800,Greece,Greece,1
+1,No,Man,Hybrid,11to50,No,Master,Yes,14000,Greece,Greece,1
+2,No,Man,Remote,1to10,No,Bachelor,Yes,12370,Greece,Greece,1
+1,No,Man,Remote,501plus,No,High School,Other,8120,Greece,Greece,1
+1,No,Man,Remote,11to50,No,Master,Yes,16030,Greece,Greece,2
+1,No,Man,Remote,501plus,No,Bachelor,Yes,14280,Greece,Greece,3
+1,Yes,Man,Hybrid,51to100,No,Bachelor,Yes,45500,Abroad,Abroad,1
+1,Yes,Man,Remote,101to200,No,Bachelor,Other,10987,Greece,Greece,1
+6,Yes,Man,Onsite,11to50,No,Bachelor,Yes,16800,Greece,Greece,4
+5,No,Man,Hybrid,11to50,Yes,Master,Yes,19600,NA,Greece,3
+4,Yes,Man,Remote,101to200,No,Bachelor,Yes,15200,Greece,Greece,2
+3,No,Man,Onsite,1to10,Yes,High School,Other,13000,Greece,Greece,1
+1,No,Man,Hybrid,101to200,No,Master,Yes,16100,Greece,Greece,2
+6,No,Man,Hybrid,501plus,Yes,Master,Yes,31206,Greece,Greece,3
+1,Yes,Man,Hybrid,501plus,No,Master,Other,11452,Greece,Greece,2
+1,No,Man,Onsite,11to50,No,Bachelor,Yes,9800,Greece,Greece,2
+3,No,Man,Hybrid,501plus,No,Master,Yes,23425,Greece,Greece,1
+1,No,Man,Hybrid,201to500,No,High School,Other,11414,Greece,Greece,1
+1,Yes,Man,Remote,501plus,No,Master,Other,14000,Greece,Greece,2
+3,Yes,Man,Remote,501plus,Yes,Bachelor,Yes,40000,Greece,Greece,1
+2,No,Man,Remote,11to50,No,Master,Other,1080,Greece,Greece,1
+1,Yes,Man,Hybrid,11to50,No,Bachelor,Yes,11000,Greece,Greece,1
+1,Yes,Man,Remote,1to10,No,High School,Other,10000,Greece,Greece,2
+7,Yes,Man,Hybrid,51to100,Yes,Bachelor,Yes,30531,Greece,Greece,1
+2,No,Man,Hybrid,201to500,No,Bachelor,Yes,16800,Greece,Greece,2
+3,Yes,Man,Remote,11to50,No,Post-secondary Education,Yes,14644,Abroad,Greece,2
+3,Yes,Man,Remote,201to500,No,Bachelor,Yes,18556,Greece,Greece,1
+1,No,Woman,Hybrid,201to500,Yes,Bachelor,Yes,11455,Greece,Greece,2
+3,Yes,Man,Hybrid,101to200,No,Bachelor,Yes,24555,Greece,Greece,1
+2,Yes,Man,Hybrid,11to50,No,Bachelor,Yes,13700,Greece,Greece,3
+1,Yes,Man,Remote,11to50,Yes,Bachelor,Yes,12600,Greece,Greece,1
+1,Yes,Man,Onsite,11to50,Yes,Bachelor,Yes,8400,NA,Greece,1
+3,No,Man,Remote,201to500,Yes,Master,Other,1600,Greece,Greece,1
+1,No,Woman,Hybrid,11to50,Yes,Bachelor,Yes,820,Greece,Greece,1
+3,Yes,Man,Hybrid,101to200,No,High School,Other,1659,Greece,Greece,2
+2,No,Man,Remote,201to500,No,Master,Yes,22500,Greece,Greece,3
+2,No,Man,Remote,501plus,No,Post-secondary Education,Yes,11388,Greece,Greece,1
+10,Yes,Man,Remote,501plus,Yes,Master,Yes,32497,Greece,Greece,1
+6,No,Woman,Remote,501plus,No,Bachelor,Yes,21197,Greece,Greece,2
+3,No,Woman,Remote,501plus,No,Master,Yes,15400,Greece,Greece,1
+1,No,Man,Hybrid,501plus,No,Bachelor,Yes,215,Greece,Greece,1
+5,No,Woman,Remote,501plus,No,Bachelor,Yes,16000,Greece,Greece,2
+2,Yes,Man,Hybrid,11to50,No,Bachelor,Other,1064,Greece,Greece,1
+2,Yes,Man,Remote,501plus,No,High School,Other,20510,Greece,Greece,1
+1,Yes,Man,Remote,11to50,No,Master,Yes,1250,Greece,Greece,2
+10,Yes,Man,Remote,11to50,No,Master,Yes,55000,Abroad,Greece,1
+12,Yes,Man,Remote,501plus,Yes,Master,Yes,24584,Greece,Greece,1
+2,Yes,Man,Hybrid,501plus,No,Master,Yes,16500,Greece,Greece,2
+2,No,Man,Hybrid,501plus,No,Bachelor,Yes,20500,Abroad,Abroad,2
+1,Yes,Man,Hybrid,501plus,No,Bachelor,Yes,11900,Greece,Greece,2
+5,No,Woman,Hybrid,501plus,No,Bachelor,Yes,20300,Greece,Greece,3
+5,Yes,Man,Hybrid,501plus,No,Master,Yes,29000,Greece,Greece,1
+4,Yes,Man,Hybrid,101to200,No,Bachelor,Other,21700,Greece,Greece,1
+1,Yes,Man,Hybrid,101to200,No,Bachelor,Yes,13500,Greece,Greece,2
+1,Yes,Man,Hybrid,11to50,No,Bachelor,Yes,14000,Greece,Greece,2
+1,Yes,Man,Onsite,11to50,No,Master,Yes,13300,Greece,Greece,1
+1,Yes,Man,Onsite,101to200,No,Bachelor,Yes,14000,Greece,Greece,2
+9,No,Man,Remote,11to50,Yes,Master,Yes,24920,NA,Greece,1
+2,No,Man,Hybrid,501plus,No,Master,Yes,19600,Greece,Greece,2
+1,Yes,Man,Onsite,11to50,No,Master,Yes,13300,Greece,Greece,1
+3,No,Man,Remote,11to50,No,High School,Other,15400,Greece,Greece,1
+2,Yes,Man,Remote,11to50,Yes,High School,Other,10000,Greece,Greece,1
+1,No,Man,Remote,11to50,No,High School,Other,11900,Greece,Greece,1
+3,No,Man,Hybrid,51to100,No,Master,Yes,15400,Greece,Greece,2
+3,No,Man,Remote,201to500,No,Bachelor,Yes,18900,Greece,Greece,1
+1,Yes,Man,Remote,501plus,Yes,Master,Yes,14500,Greece,Greece,1
+3,Yes,Man,Remote,101to200,No,Bachelor,Yes,30000,Greece,Greece,2
+1,Yes,Man,Remote,1to10,No,Bachelor,Yes,119,Greece,Greece,2
+8,Yes,Man,Hybrid,51to100,No,Master,Yes,26600,Greece,Greece,2
+3,Yes,Man,Onsite,11to50,No,Bachelor,Yes,37000,Abroad,Abroad,1
+25,No,Man,Hybrid,501plus,No,Bachelor,Yes,27000,Greece,Greece,1
+6,Yes,Man,Remote,501plus,No,High School,Other,34000,NA,Greece,2
+1,Yes,Man,Hybrid,11to50,No,Bachelor,Yes,19600,Greece,Greece,2
+4,No,Man,Remote,101to200,No,Bachelor,Yes,1200,Greece,Greece,1
+2,No,Man,Hybrid,501plus,Yes,Bachelor,Yes,14700,Greece,Greece,2
+5,Yes,Man,Remote,501plus,No,Master,Other,25000,Greece,Greece,1
+1,Yes,Man,Hybrid,501plus,No,Master,Other,14000,Greece,Greece,1
+3,No,Woman,Hybrid,501plus,No,Master,Yes,294,Greece,Greece,1
+1,No,Man,Onsite,11to50,No,Post-secondary Education,Other,10500,Greece,Greece,1
+7,Yes,Man,Remote,101to200,No,High School,Other,23968,Greece,Greece,1
+4,Yes,Man,Hybrid,501plus,No,Master,Other,15000,Greece,Greece,4
+2,No,Man,Hybrid,11to50,No,Bachelor,Yes,21000,Greece,Greece,1
+5,No,Man,Remote,101to200,Yes,Bachelor,Yes,23500,Greece,Greece,2
+2,Yes,Man,Remote,201to500,No,High School,Other,15127,Greece,Greece,1
+1,No,Woman,Remote,501plus,Yes,Bachelor,Yes,12600,Greece,Greece,1
+1,No,Man,Onsite,51to100,No,Bachelor,Other,12838,Greece,Greece,2
+2,Yes,Man,Remote,201to500,No,Bachelor,Yes,12600,Greece,Greece,2
+2,No,Man,Remote,11to50,No,Master,Yes,14500,Greece,Greece,1
+3,Yes,Man,Remote,501plus,Yes,Bachelor,Yes,19600,Greece,Greece,3
+1,No,Man,Hybrid,11to50,Yes,Bachelor,Yes,14900,Greece,Greece,2
+1,No,Man,Hybrid,51to100,No,Bachelor,Yes,12838,Greece,Greece,1
+3,No,Man,Hybrid,11to50,Yes,Bachelor,Yes,15400,Greece,Greece,1
+6,Yes,Man,Hybrid,501plus,No,Bachelor,Yes,19460,Greece,Greece,1
+7,Yes,Man,Hybrid,11to50,Yes,Bachelor,Yes,25200,Greece,Greece,1
+1,Yes,Man,Hybrid,11to50,No,Master,Yes,15400,Greece,Greece,2
+1,Yes,Man,Hybrid,101to200,No,Master,Yes,32000,Abroad,Abroad,1
+2,No,Man,Hybrid,11to50,No,Master,Other,14700,Greece,Greece,1
+2,No,Man,Remote,201to500,No,High School,Other,14400,Greece,Greece,1
+4,Yes,Man,Hybrid,11to50,No,Post-secondary Education,Yes,20500,Greece,Greece,3
+3,Yes,Man,Remote,1to10,No,Bachelor,Yes,11900,Greece,Greece,4
+1,No,Man,Onsite,101to200,No,Bachelor,Yes,11000,Greece,Greece,2
+1,No,Man,Hybrid,201to500,No,Bachelor,Yes,1316,Greece,Greece,1
+2,No,Man,Hybrid,201to500,No,Master,Yes,18900,Greece,Greece,2
+7,Yes,Man,Hybrid,1to10,No,High School,Other,18000,Greece,Greece,2
+1,Yes,Man,Onsite,1to10,No,Bachelor,Yes,9000,Greece,Greece,1
+1,No,Man,Remote,51to100,No,Bachelor,Yes,10080,Greece,Greece,1
+1,No,Man,Onsite,201to500,No,Master,Yes,14500,Greece,Greece,1
+10,Yes,Man,Onsite,1to10,No,Bachelor,Yes,30000,Greece,Greece,2
+2,Yes,Man,Remote,101to200,No,Bachelor,Yes,14868,Greece,Greece,2
+14,No,Man,Remote,11to50,No,Bachelor,Yes,30000,Abroad,Abroad,3
+6,Yes,Man,Onsite,1to10,No,Post-secondary Education,Other,14700,Greece,Greece,2
+1,No,Man,Hybrid,51to100,No,Master,Yes,14000,Greece,Greece,1
+7,Yes,Man,Remote,11to50,Yes,Bachelor,Yes,31200,Greece,Greece,3
+1,No,Man,Remote,11to50,No,Master,Yes,12376,Greece,Greece,2
+1,No,Man,Hybrid,501plus,No,Master,Yes,15400,Greece,Greece,1
+4,Yes,Man,Hybrid,501plus,No,Master,Yes,25200,Greece,Greece,2
+1,Yes,Man,Hybrid,11to50,No,Post-secondary Education,Yes,1800,Greece,Greece,2
+3,No,Man,Remote,51to100,No,High School,Other,16500,Greece,Greece,1
+1,Yes,Man,Hybrid,201to500,No,Bachelor,Yes,15000,Greece,Greece,2
+1,No,Woman,Hybrid,501plus,No,High School,Other,18285,Greece,Greece,3
+1,No,Man,Remote,51to100,No,Master,Yes,11452,Greece,Abroad,1
+6,No,Man,Hybrid,501plus,No,Master,Yes,19600,Greece,Greece,1
+1,No,Man,Onsite,101to200,No,Bachelor,Yes,8554,Greece,Greece,3
+3,Yes,Man,Hybrid,101to200,Yes,Master,Yes,14000,Greece,Greece,1
+5,Yes,Man,Hybrid,1to10,No,Bachelor,Yes,21600,Greece,Greece,2
+2,No,Man,Hybrid,101to200,Yes,Bachelor,Yes,126,Greece,Greece,1
+6,No,Man,Hybrid,501plus,No,Bachelor,Yes,16100,Greece,Greece,1
+2,Yes,Man,Remote,11to50,No,Master,Other,17400,Greece,Greece,2
+12,No,Man,Hybrid,501plus,Yes,Master,Yes,22042,Greece,Greece,2
+2,Yes,Man,Hybrid,101to200,No,PhD,Other,24000,Greece,Greece,1
+4,No,Man,Hybrid,11to50,Yes,Bachelor,Yes,1100,Abroad,Abroad,1
+7,Yes,Man,Remote,101to200,Yes,Master,Yes,32000,Greece,Greece,3
+1,No,Man,Onsite,51to100,No,Bachelor,Yes,8918,Greece,Greece,1
+15,Yes,Man,Onsite,101to200,No,Post-secondary Education,Yes,27000,Greece,Greece,3
+1,Yes,Man,Remote,201to500,No,High School,Other,14280,Greece,Greece,2
+3,Yes,Man,Hybrid,501plus,No,Bachelor,Yes,15000,Greece,Greece,1
+22,Yes,Man,Remote,51to100,No,Bachelor,Yes,36000,Greece,Greece,2
+1,Yes,Man,Onsite,51to100,No,Bachelor,Yes,17425,Greece,Greece,4
+2,Yes,Man,Remote,501plus,No,Bachelor,Yes,11940,Greece,Greece,2
+2,No,Man,Hybrid,51to100,No,Master,Yes,14500,Greece,Greece,2
+2,No,Man,Hybrid,201to500,No,Bachelor,Other,18200,Greece,Greece,2
+7,No,Man,Onsite,201to500,No,Bachelor,Yes,28000,Greece,Greece,2
+3,Yes,Man,Hybrid,1to10,No,Bachelor,Yes,168,Greece,Greece,2
+1,Yes,Man,Onsite,1to10,No,Bachelor,Yes,10000,Greece,Greece,1
+2,Yes,Man,Onsite,1to10,No,Post-secondary Education,Yes,830,Greece,Greece,2
+1,No,Man,Onsite,11to50,No,Post-secondary Education,Yes,11200,NA,Greece,2
+1,No,Man,Hybrid,1to10,No,Bachelor,Other,990,Greece,Greece,2
+2,Yes,Man,Onsite,1to10,No,Bachelor,Yes,11900,Greece,Greece,2
+1,No,Man,Onsite,1to10,No,Bachelor,Other,2221,Abroad,Abroad,2
+3,No,Man,Hybrid,501plus,No,Master,Yes,16800,Greece,Greece,1
+2,Yes,Man,Onsite,1to10,Yes,Bachelor,Yes,19600,Greece,Greece,2
+1,No,Man,Hybrid,501plus,No,Bachelor,Other,28000,Greece,Greece,2
+1,No,Man,Hybrid,51to100,No,Bachelor,Yes,11000,Greece,Greece,1
+5,No,Man,Hybrid,501plus,No,Master,Yes,43000,Abroad,Abroad,1
+10,No,Man,Onsite,1to10,Yes,Master,Yes,1800,NA,Greece,4
+3,Yes,Woman,Hybrid,1to10,No,High School,Other,36000,Abroad,Abroad,2
+4,Yes,Man,Remote,1to10,Yes,Master,Yes,18200,Greece,Greece,3
+1,Yes,Man,Hybrid,51to100,Yes,Post-secondary Education,Yes,1000,Greece,Greece,6
+2,No,Man,Remote,51to100,No,Bachelor,Yes,21840,Greece,Greece,1
+13,No,Man,Hybrid,201to500,Yes,Bachelor,Yes,26419,Greece,Greece,2
+4,Yes,Man,Remote,1to10,No,Bachelor,Yes,20150,Greece,Greece,1
+1,No,Man,Remote,51to100,No,High School,Other,1200,Greece,Greece,2
+3,Yes,Man,Hybrid,501plus,No,Master,Other,25900,Greece,Greece,1
+1,Yes,Man,Hybrid,501plus,No,Bachelor,Yes,13860,Greece,Greece,1
+1,No,Man,Remote,11to50,Yes,Bachelor,Yes,10000,Greece,Greece,2
+2,No,Man,Remote,1to10,No,Master,Other,18000,Greece,Greece,2
+22,Yes,Man,Remote,201to500,No,Bachelor,Yes,21000,Greece,Greece,3
+8,Yes,Man,Remote,501plus,No,Bachelor,Other,56400,Abroad,Abroad,2
+4,Yes,Man,Remote,501plus,Yes,Bachelor,Yes,15400,Greece,Greece,1
+5,Yes,Man,Onsite,11to50,No,Bachelor,Yes,1750,Abroad,Abroad,2
+3,No,Man,Remote,11to50,No,Bachelor,Yes,26800,Greece,Greece,1
+1,Yes,Man,Hybrid,501plus,No,Bachelor,Yes,18200,Greece,Greece,2
+1,Yes,Man,Remote,1to10,No,Bachelor,Yes,10800,Greece,Abroad,1
+1,No,Man,Remote,201to500,No,Master,Yes,14000,Greece,Greece,1
+7,No,Man,Hybrid,501plus,No,Bachelor,Yes,26000,Greece,Greece,4
+1,No,Man,Hybrid,101to200,No,Bachelor,Yes,900,Greece,Greece,1
+2,Yes,Man,Hybrid,101to200,No,Master,Yes,16942,Greece,Greece,3
+7,No,Woman,Hybrid,501plus,No,Master,Yes,25600,Greece,Greece,2
+1,Yes,Man,Onsite,1to10,No,Master,Yes,20000,Greece,Greece,2
+1,Yes,Man,Remote,11to50,No,Bachelor,Yes,10518,Greece,Greece,1
+3,No,Man,Hybrid,11to50,No,Bachelor,Yes,21000,Greece,Greece,1
+4,No,Man,Hybrid,501plus,No,Master,Yes,1450,Greece,Greece,1
+3,Yes,Man,Onsite,1to10,No,Bachelor,Yes,14000,Greece,Greece,2
+15,No,Man,Hybrid,51to100,Yes,Bachelor,Yes,37200,Greece,Greece,1
+1,No,Man,Onsite,11to50,No,Primary Education,Other,12948,Greece,Greece,1
+8,No,Man,Hybrid,501plus,Yes,Bachelor,Yes,26500,Greece,Greece,1
+2,Yes,Man,Hybrid,101to200,No,Bachelor,Yes,21000,Greece,Greece,2
+15,Yes,Man,Hybrid,201to500,Yes,Bachelor,Yes,43500,Greece,Greece,1
+1,No,Man,Remote,501plus,No,Bachelor,Yes,12600,Greece,Greece,2
+3,Yes,Man,Remote,501plus,No,Bachelor,Yes,20800,Greece,Greece,1
+1,No,Woman,Hybrid,501plus,No,Bachelor,Other,16000,Greece,Greece,1
+2,Yes,Man,Remote,501plus,No,Bachelor,Other,11480,Greece,Greece,1
+5,Yes,Man,Remote,11to50,No,Master,Yes,12000,Abroad,Abroad,2
+1,No,Man,Hybrid,501plus,No,Bachelor,Yes,12329,Greece,Greece,1
+4,No,Man,Hybrid,201to500,Yes,Master,Yes,21,Greece,Greece,1
+1,No,Woman,Remote,11to50,No,Master,Other,11200,Greece,Greece,3
+9,Yes,Man,Hybrid,11to50,Yes,High School,Other,30800,Greece,Greece,1
+19,Yes,Man,Onsite,11to50,Yes,Bachelor,Yes,19600,Greece,Greece,2
+1,Yes,Man,Onsite,51to100,No,Master,Yes,2000,NA,NA,1
+4,No,Woman,Onsite,11to50,No,Bachelor,Yes,112,Greece,Greece,2
+3,No,Woman,Onsite,501plus,Yes,Master,Other,19530,Greece,Greece,2
+2,No,Man,Onsite,11to50,No,Bachelor,Yes,18816,Greece,Greece,1
+16,Yes,Man,Onsite,11to50,Yes,Master,Yes,16000,NA,Greece,4
+12,Yes,Man,Remote,1to10,Yes,Bachelor,Yes,28000,Abroad,Abroad,2
+1,No,Man,Hybrid,501plus,No,Bachelor,Yes,17500,Greece,Greece,2
+1,Yes,Woman,Remote,11to50,No,Bachelor,Yes,14000,Greece,Greece,1
+1,No,Man,Remote,1to10,No,Bachelor,Yes,10000,Greece,Greece,1
+1,No,Woman,Remote,1to10,No,Bachelor,Yes,8400,Greece,Greece,2
+1,No,Man,Remote,1to10,No,Bachelor,Yes,13200,Greece,Greece,2
+2,No,Man,Onsite,11to50,No,Bachelor,Yes,14000,NA,Greece,2
+1,No,Man,Hybrid,201to500,No,Bachelor,Yes,16000,Greece,Greece,3
+3,No,Man,Hybrid,201to500,Yes,Bachelor,Yes,20800,Greece,Greece,1
+18,No,Man,Remote,501plus,Yes,Master,Yes,50000,Greece,Greece,1
+3,Yes,Man,Hybrid,11to50,Yes,Master,Yes,15400,Greece,Greece,2
+1,No,Man,Remote,51to100,No,Bachelor,Yes,14000,Greece,Greece,2
+9,Yes,Man,Hybrid,201to500,No,Bachelor,Yes,19600,Greece,Greece,2
+1,No,Man,Hybrid,501plus,No,Bachelor,Yes,10220,Greece,Greece,1
+7,No,Man,Hybrid,51to100,No,Master,Yes,26800,Greece,Greece,2
+3,Yes,Man,Remote,11to50,No,Bachelor,Yes,14000,Greece,Greece,1
+2,Yes,Man,Remote,1to10,No,Master,Yes,16800,Greece,Greece,2
+8,Yes,Man,Remote,51to100,Yes,High School,Other,18500,Greece,Abroad,2
+4,Yes,Man,Onsite,11to50,No,Bachelor,Yes,15400,Greece,Greece,3
+5,Yes,Man,Onsite,11to50,Yes,Master,Yes,16000,Greece,Greece,2
+3,No,Man,Hybrid,1to10,No,Bachelor,Yes,11900,Greece,Greece,1
+1,Yes,Man,Onsite,11to50,No,Bachelor,Yes,11200,Greece,Greece,1
+20,No,Man,Hybrid,51to100,Yes,Bachelor,Yes,32500,Greece,Greece,1
+3,No,Man,Hybrid,501plus,No,Master,Yes,16000,Greece,Greece,1
+3,No,Man,Remote,1to10,No,Bachelor,Yes,16800,Greece,Greece,1
+9,Yes,Man,Hybrid,11to50,Yes,Bachelor,Yes,26000,Greece,Greece,2
+2,No,Man,Remote,201to500,No,Master,Yes,17000,Greece,Greece,1
+2,No,Man,Remote,1to10,No,Bachelor,Yes,21630,Greece,Greece,2
+8,Yes,Man,Hybrid,11to50,No,Bachelor,Yes,16259,Greece,Greece,6
+7,No,Man,Remote,11to50,Yes,Master,Yes,19600,Greece,Greece,2
+1,Yes,Man,Remote,11to50,No,Bachelor,Yes,7500,Greece,Greece,1
+19,No,Man,Hybrid,11to50,Yes,Master,Other,38000,Greece,Greece,2
+7,Yes,Man,Hybrid,11to50,Yes,High School,Other,1600,Greece,Greece,3
+2,Yes,Man,Hybrid,501plus,No,Bachelor,Yes,18000,Greece,Greece,1
+1,Yes,Woman,Hybrid,501plus,No,Bachelor,Yes,13300,Greece,Greece,1
+6,No,Man,Hybrid,1to10,No,Master,Other,30800,Greece,Greece,2
+1,Yes,Man,Hybrid,201to500,No,Bachelor,Other,18525,Greece,Greece,1
+8,Yes,Man,Hybrid,1to10,Yes,Bachelor,Yes,16800,Greece,Greece,3
+6,Yes,Man,Hybrid,201to500,No,Bachelor,Yes,1730,Greece,Greece,2
+6,Yes,Man,Hybrid,201to500,No,Master,Other,31000,Greece,Greece,1
+3,Yes,Man,Hybrid,11to50,No,Bachelor,Yes,17500,Greece,Greece,1
+10,Yes,Man,Onsite,51to100,No,Bachelor,Yes,1000,Abroad,Abroad,2
+2,Yes,Man,Onsite,11to50,No,Bachelor,Yes,9282,Greece,Greece,2
+1,No,Man,Onsite,51to100,Yes,High School,Other,1000,NA,Greece,1
+1,No,Man,Remote,101to200,No,Master,Yes,14300,Greece,Greece,2
+6,No,Man,Remote,101to200,No,Bachelor,Yes,51000,Abroad,Greece,2
+1,Yes,Man,Remote,101to200,No,Bachelor,Yes,18156,Greece,Greece,1
+1,Yes,Man,Remote,501plus,No,Bachelor,Yes,13540,Greece,Greece,2
+1,No,Man,Hybrid,501plus,No,Bachelor,Yes,9100,Greece,Greece,1
+2,No,Man,Hybrid,501plus,No,Bachelor,Yes,1250,Greece,Greece,1
+4,No,Man,Remote,501plus,No,Bachelor,Yes,21000,NA,Greece,1
+1,Yes,Man,Hybrid,11to50,No,Master,Yes,11500,Greece,Greece,1
+2,No,Man,Hybrid,101to200,Yes,Bachelor,Yes,18588,Greece,Greece,1
+8,Yes,Man,Remote,101to200,No,Master,Yes,2200,Greece,Greece,1
+1,No,Man,Remote,11to50,No,High School,Other,10500,Greece,Greece,1
+10,No,Man,Onsite,101to200,No,Master,Yes,18000,Greece,Greece,2
+1,Yes,Man,Hybrid,11to50,No,Bachelor,Yes,12000,Greece,Greece,1
+1,No,Man,Hybrid,51to100,No,Master,Yes,13300,Greece,Greece,2
+5,No,Man,Remote,11to50,Yes,Bachelor,Yes,19530,Greece,Greece,1
+12,Yes,Man,Remote,501plus,No,Bachelor,Yes,30500,Greece,Greece,4
+1,No,Man,Hybrid,11to50,Yes,Master,Yes,14952,Greece,Greece,1
+5,Yes,Man,Hybrid,201to500,Yes,Bachelor,Yes,50000,Greece,Greece,1
+7,No,Man,Remote,101to200,No,Bachelor,Yes,32900,Greece,Greece,1
+6,Yes,Man,Hybrid,101to200,No,Master,Yes,20000,Greece,Greece,2
+2,Yes,Man,Hybrid,11to50,No,Master,Yes,17022,Greece,Greece,2
+9,Yes,Man,Hybrid,51to100,No,Bachelor,Yes,29400,Greece,Greece,1
+5,No,Man,Hybrid,201to500,No,Master,Other,23000,Greece,Greece,2
+8,Yes,Man,Hybrid,51to100,No,Post-secondary Education,Yes,18200,Greece,Greece,3
+3,Yes,Man,Onsite,1to10,Yes,Master,Yes,15000,Greece,Greece,1
+2,No,Man,Hybrid,501plus,No,Bachelor,Yes,17574,NA,Greece,1
+1,Yes,Man,Onsite,501plus,No,Master,Yes,21500,NA,Greece,1
+1,Yes,Man,Remote,201to500,Yes,Bachelor,Yes,12800,Greece,Greece,1
+1,Yes,Man,Remote,501plus,No,Bachelor,Yes,16800,Greece,Greece,1
+1,No,Woman,Hybrid,501plus,No,Bachelor,Yes,10873,Greece,Greece,2
+5,No,Man,Remote,11to50,Yes,High School,Other,16800,Greece,Greece,1
+3,No,Man,Hybrid,201to500,Yes,Master,Yes,26803,Greece,Greece,2
+1,No,Man,Remote,11to50,No,High School,Other,11900,Greece,Greece,1
+1,Yes,Man,Hybrid,501plus,No,Master,Yes,18000,Greece,Greece,2
+5,No,Woman,Hybrid,501plus,No,Bachelor,Yes,40000,Abroad,Abroad,1
+1,No,Man,Remote,501plus,No,Master,Yes,12600,Greece,Greece,1
+5,Yes,Man,Hybrid,101to200,Yes,Bachelor,Yes,18200,Greece,Greece,2
+2,Yes,Man,Hybrid,11to50,Yes,High School,Other,14000,Greece,Greece,2
+1,No,Man,Hybrid,501plus,No,Bachelor,Yes,12320,Greece,Greece,2
+6,No,Man,Hybrid,501plus,No,Master,Yes,55816,Abroad,Abroad,1
+1,Yes,Man,Hybrid,11to50,No,Bachelor,Yes,11545,Greece,Greece,2
+2,Yes,Man,Remote,101to200,No,Master,Yes,15400,Greece,Greece,1
+1,Yes,Man,Remote,11to50,No,Bachelor,Yes,13000,Greece,Greece,1
+4,No,Man,Hybrid,501plus,No,Bachelor,Yes,30000,Greece,Greece,3
+4,Yes,Man,Remote,1to10,No,Master,Yes,19600,Greece,Greece,2
+2,Yes,Man,Hybrid,501plus,No,Bachelor,Other,17000,Greece,Greece,1
+1,Yes,Man,Onsite,1to10,No,Master,Yes,11200,NA,Greece,1
+9,No,Man,Hybrid,501plus,Yes,Master,Yes,30000,Abroad,Abroad,1
+1,No,Man,Onsite,11to50,No,Bachelor,Yes,9600,Greece,Greece,2
+11,Yes,Man,Remote,1to10,No,Bachelor,Yes,18,Greece,Greece,2
+3,Yes,Man,Remote,1to10,No,Bachelor,Yes,15000,Greece,Greece,2
+2,No,Man,Remote,11to50,No,Bachelor,Yes,13300,Greece,Greece,1
+3,No,Man,Remote,501plus,No,Bachelor,Yes,20000,Greece,Greece,1
+3,No,Man,Hybrid,501plus,No,Bachelor,Other,20000,Greece,Greece,2
+10,Yes,Man,Hybrid,201to500,No,Master,Yes,30000,Greece,Greece,1
+1,No,Man,Remote,501plus,No,Master,Yes,11454,Greece,Greece,1
+2,No,Man,Onsite,201to500,No,Bachelor,Yes,1350,Abroad,Abroad,1
+10,No,Man,Hybrid,1to10,Yes,High School,Other,12000,Greece,Greece,4
+1,Yes,Man,Hybrid,501plus,No,Bachelor,Yes,21250,Greece,Greece,2
+3,Yes,Man,Remote,1to10,No,High School,Other,1200,Greece,Greece,4
+1,No,Man,Hybrid,201to500,No,Master,Yes,13,Greece,Greece,1
+3,No,Man,Hybrid,1to10,No,Post-secondary Education,Yes,10680,NA,Greece,1
+14,No,Man,Hybrid,501plus,No,Master,Yes,2087,Greece,Greece,1
+7,Yes,Man,Hybrid,11to50,No,Master,Yes,3000,Abroad,Abroad,11
+3,No,Man,Remote,1to10,Yes,Bachelor,Yes,22686,Abroad,Abroad,3
+1,Yes,Man,Remote,51to100,No,Master,Yes,14700,Greece,Greece,1
+1,No,Man,Hybrid,501plus,No,Master,Other,12404,Greece,Greece,2
+2,Yes,Man,Onsite,501plus,No,High School,Other,13500,NA,Greece,2
+7,Yes,Man,Onsite,1to10,No,Bachelor,Yes,16800,NA,Greece,2
+4,No,Man,Hybrid,201to500,No,Master,Other,23500,Greece,Greece,1
+1,Yes,Man,Remote,11to50,Yes,Master,Yes,12600,Greece,Greece,1
+2,No,Man,Remote,1to10,No,Bachelor,Yes,14294,Abroad,Greece,1
+1,No,Man,Hybrid,11to50,No,Post-secondary Education,Yes,14000,Greece,Greece,1
+3,Yes,Man,Hybrid,1to10,No,Bachelor,Other,11000,NA,Greece,2
+1,Yes,Man,Hybrid,201to500,No,Bachelor,Yes,10080,Greece,Greece,1
+5,No,Man,Remote,101to200,No,Post-secondary Education,Yes,670,Greece,Greece,1
+1,No,Man,Remote,11to50,No,Bachelor,Yes,9240,Greece,Greece,2
+1,Yes,Man,Remote,51to100,No,Post-secondary Education,Yes,10080,Greece,Greece,1
+1,No,Man,Onsite,51to100,Yes,Master,Yes,11900,NA,Greece,1
+2,Yes,Man,Hybrid,201to500,No,Master,Other,18600,Greece,Greece,2
+5,No,Man,Hybrid,501plus,No,Master,Yes,22000,Greece,Greece,2
+8,No,Woman,Remote,501plus,No,Master,Yes,22000,Greece,Greece,2
+1,No,Man,Remote,11to50,No,Bachelor,Yes,8598,Greece,Greece,1
+16,No,Man,Hybrid,501plus,No,Bachelor,Yes,26600,Greece,Greece,1
+1,No,Man,Hybrid,501plus,Yes,Master,Yes,14200,Greece,Greece,1
+1,No,Man,Onsite,101to200,No,Bachelor,Yes,16100,NA,Greece,1
+8,Yes,Man,Hybrid,501plus,No,Master,Yes,27618,Greece,Greece,2
+1,Yes,Man,Remote,11to50,No,Master,Yes,900,Greece,Abroad,2
+12,Yes,Man,Remote,11to50,No,Master,Yes,3200,Greece,Greece,2
+2,No,Man,Remote,501plus,Yes,Bachelor,Yes,16100,Greece,Greece,3
