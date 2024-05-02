@@ -15,4 +15,5 @@ A [plumber](https://www.rplumber.io/) API which is based on the recently conduct
 
 ## Links
 
-📦 **DockerHub Repo:** [stesiam/dev-wages-api](https://hub.docker.com/repository/docker/stesiam/dev-wages-api)
+📦 **DockerHub Repo**: [stesiam/dev-wages-api](https://hub.docker.com/repository/docker/stesiam/dev-wages-api)
+💾 **Data Source**: [Social Nerds](https://www.youtube.com/channel/UCd5jW000te6bExqYth4TIxQ)
